@@ -6,8 +6,7 @@ I am a NYC based software engineer, writer, and serial hobbyist.
 
 ## Some things about me
 
-- I'm currently working on Visu-NYC, a geo-spacial visualization application that will allow users to make sense of the public data provided by NYC Open Data.
-- I'm currently working with a team on an app for climbers to keep track of their climbing goals and map out new routes.
+- I'm currently working on an app that will use the OpenAI API to identify architecture styles based on uploaded photos.
 - Learning iOS development with [100 days of SwiftUI](https://www.hackingwithswift.com/100/swiftui).
 - I previously professionally wrote 'words on a screen' as a technical and UX writer.
 - In my free time I like to work on my [travel newsletter](https://awellplacedlog.substack.com/), catch the latest movie at the theatre, binge read fantasy novels, and do various outdoorsy activities like running/rollerblading/climbing/architecture walking-tours.
