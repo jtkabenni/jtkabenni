@@ -15,4 +15,4 @@ I am a NYC based software developer, technical writer, and serial hobbyist.
 
 - Javascript, React, Typescript, Node.js, Express, Python, Flask, PostgreSQL, Next.js, Tailwind, Markdown
 
-Reach out to me at jennytakahara@gmail.com or [linkedin](https://www.linkedin.com/in/ehime-takahara/) and view [my resume](./jenny_takahara_resume.pdf).
+Reach out to me at jennytakahara@gmail.com or [linkedin](https://www.linkedin.com/in/ehime-takahara/).
